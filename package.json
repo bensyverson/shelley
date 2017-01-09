@@ -1,0 +1,19 @@
+{
+  "name": "shelley",
+  "version": "0.1.0",
+  "description": "Static site generator using Put Stuff Here & Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ideo",
+    "recruiting"
+  ],
+  "author": "Ben Syverson",
+  "license": "MIT",
+  "devDependencies": {
+    "putstuffhere": "^0.9.6",
+    "remarkable": "^1.7.1"
+  }
+}
