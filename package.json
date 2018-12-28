@@ -14,7 +14,7 @@
   "author": "Ben Syverson",
   "license": "MIT",
   "devDependencies": {
-    "putstuffhere": "^0.9.6",
+    "putstuffhere": "^0.9.7",
     "remarkable": "^1.7.1"
   }
 }
