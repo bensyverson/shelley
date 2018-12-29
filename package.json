@@ -1,8 +1,8 @@
 {
   "name": "shelleywww",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Static site generator using Put Stuff Here & Markdown",
-  "main": "index.js",
+  "main": "lib/Shelley.js",
   "scripts": {
     "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
