@@ -9,3 +9,5 @@ author: You
 - Link
 - Link
 - Link
+
+Also see [more resources](../01-More-resources.md)

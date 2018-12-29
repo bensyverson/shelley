@@ -10,3 +10,6 @@ author: You
 
 This is a test!
 
+![Beijo](images/beijo.jpg)
+
+Be sure to check out our [resources](00-resources/00-Resources.md)
