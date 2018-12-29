@@ -1,6 +1,6 @@
 {
   "name": "shelleywww",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Static site generator using Put Stuff Here & Markdown",
   "main": "index.js",
   "scripts": {
@@ -15,14 +15,14 @@
   ],
   "author": "Ben Syverson",
   "license": "MIT",
-  "devDependencies": {
-    "putstuffhere": "^0.9.7",
-    "remarkable": "^1.7.1"
-  },
+  "devDependencies": {},
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {},
+  "dependencies": {
+    "putstuffhere": "^0.9.7",
+    "remarkable": "^1.7.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bensyverson/shelley.git"
